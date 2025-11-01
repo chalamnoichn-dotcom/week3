@@ -186,8 +186,13 @@ footer {
   padding: 5px;
 }
 
+li {
+  margin-left: 20px;
+}
+
 .apptext {
   color: #2d3368;
   text-decoration: none;
 
 }
+
